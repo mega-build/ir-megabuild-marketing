@@ -1,2 +1,3 @@
-# ir-megabuild-marketing
-ir-megabuild-marketing
+# بازاریابی محصول مگابیلد
+مرحله ای اول: تست بازار
+مرحله ی دوم: توسعه ی سازمان و محصول

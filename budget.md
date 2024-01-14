@@ -1,0 +1,1 @@
+6. Create a budget: Determine your marketing budget based on the resources available to your startup. Allocate funds to different marketing activities and channels based on their potential return on investment. 
